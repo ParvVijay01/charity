@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1013728624127",
+    "project_id": "charity-f1355",
+    "storage_bucket": "charity-f1355.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013728624127:android:9f07c158b4e5591d743bca",
+        "android_client_info": {
+          "package_name": "com.parv.charity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013728624127-feeudgpi9sspd36nf3jsakp4ratgpjft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parv.charity",
+            "certificate_hash": "3be3c710c5ac331ca704f6c89da52c9a5dd9990d"
+          }
+        },
+        {
+          "client_id": "1013728624127-qhh9au8vsg8mkodenj8ia5siirv9tjfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGA_Zdh6w8jizvNb0gx1Zw2N3nlTdlwbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013728624127-qhh9au8vsg8mkodenj8ia5siirv9tjfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013728624127-4vah3tm8m2db9bk6k3ius6828i325dfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parv.charity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
